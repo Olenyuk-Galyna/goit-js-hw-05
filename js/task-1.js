@@ -1,4 +1,4 @@
-getUserNames(users) = 
+getUserNames = users => 
 
 console.log(
   getUserNames([

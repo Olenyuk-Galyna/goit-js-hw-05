@@ -1,4 +1,4 @@
-sortByDescendingFriendCount(users) =
+sortByDescendingFriendCount = users =>
 
 console.log(
   sortByDescendingFriendCount([

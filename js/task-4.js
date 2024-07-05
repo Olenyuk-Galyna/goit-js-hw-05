@@ -1,4 +1,4 @@
-getTotalBalanceByGender(users, gender) =
+getTotalBalanceByGender = (users, gender) =>
 
 const clients = [
 	{

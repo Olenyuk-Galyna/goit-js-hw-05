@@ -1,4 +1,4 @@
-getUsersWithFriend(users, friendName) = 
+getUsersWithFriend = (users, friendName) =>  
 
 const allUsers = [
   {
